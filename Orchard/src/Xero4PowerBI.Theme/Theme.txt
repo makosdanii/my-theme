@@ -1,0 +1,8 @@
+﻿Name: Xero4PowerBI Theme
+Author: Daniel Makos
+Website: https://github.com/makosdanii/DotNest-SDK
+Description: Theme for Xero4PowerBI
+Version: 1.0
+BaseTheme:
+Dependencies:
+Zones:
